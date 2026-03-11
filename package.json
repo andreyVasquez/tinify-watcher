@@ -1,0 +1,13 @@
+{
+  "name": "tinify-watcher",
+  "version": "1.0.0",
+  "description": "Vigila tu carpeta de descargas y optimiza imágenes a WebP con TinyPNG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0"
+  }
+}
