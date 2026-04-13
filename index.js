@@ -28,7 +28,7 @@ const CONFIG = {
   CONVERT_TO_WEBP: true,
 
   // Eliminar el archivo original después de optimizar
-  DELETE_ORIGINAL: false,
+  DELETE_ORIGINAL: true,
 
   // Tiempo de espera (ms) antes de procesar (para asegurar que la descarga terminó)
   DEBOUNCE_MS: 1500,
